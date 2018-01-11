@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_d5a4d58bc35e3d7861983736345ad8ce3328aa30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_cc9ea5e47fb57a8ec24d4f6645ce2f2900a1d6bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_c89f00209ea934a510b74c247378f744de5fa6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2cb4575fced6e37967202534d21c1d7c7f5a7193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_4af1d7cb4b0ad26e6929576540bbb205cf3de3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_ff958c52afaa60599773cbde158c7e23d884b2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e34abc3741009ac34aa7f6d8b5051cf21949f5fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_c1ac47eb1294454215f4687099c2fc897c96574e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_1b161193dbb9ad175a404a4b56c8b99a537ca3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_aab33e3700424f24dd11a31c331d9e865cd89d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6c16c46790138a454648a65df1b83af1eace59a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_c0ff0d399cd2449e1f2d410f62553e21640af92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_7ead68fcbfbbf70ed487b0ed95e635bced999eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_d3eaa03fee1b0d8c67f1d067bc2bef0b5eb51ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Anikesh Prasad\AndroidStudioProjects\BasicCalculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_ae3b9670cf6fb1ab3b175854d19d402300146b8e.jar" />
+    </item>
+
+</items>
